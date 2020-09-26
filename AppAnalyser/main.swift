@@ -2,11 +2,11 @@
 //  main.swift
 //  AppAnalyser
 //
-//  Created by Apple on 2020/9/22.
+//  Created by Apple on 2020/9/26.
 //  Copyright © 2020 JST. All rights reserved.
 //
 
 import Foundation
 
-print("Hello, World!")
+AppAnalyser.main()
 
